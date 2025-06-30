@@ -21,22 +21,7 @@ SET time_zone = "+00:00";
 -- Database: `flipcart`
 --
 
--- --------------------------------------------------------
 
---
--- Table structure for table `tbladmin`
---
-
-
-
--- --------------------------------------------------------
-
---
--- Table structure for table `tblorderaddresses`
---
---
--- Table structure for table `tblpage`
---
 
 CREATE TABLE `tblpage` (
   `ID` int(10) NOT NULL,
